@@ -1,0 +1,68 @@
+[28-Feb-2018 17:35:24 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:24 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:24 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:24 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:35:45 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:45 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:45 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:45 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:47 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:35:48 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:48 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:48 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:35:48 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:01 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:01 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:01 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:01 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:55 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:55 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:55 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:55 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:56 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:36:57 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:00 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
+[28-Feb-2018 17:37:01 Asia/Kolkata] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:01 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:01 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/aniltend/public_html/tedtm/include/logincheck.php on line 6
+[28-Feb-2018 17:37:01 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aniltend/public_html/tedtm/include/logincheck.php on line 7
